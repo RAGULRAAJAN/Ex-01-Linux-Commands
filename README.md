@@ -22,6 +22,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+<img width="904" height="66" alt="Screenshot 2025-08-28 102832" src="https://github.com/user-attachments/assets/74605c0d-055d-4600-baeb-f75a836ea694" />
 
 
 ### 2)	pwd Command
@@ -36,6 +37,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+<img width="324" height="65" alt="Screenshot 2025-08-28 102900" src="https://github.com/user-attachments/assets/fab83328-aa10-456a-b00b-9270a5f1e497" />
 
 
 ### 4)	rmdir Command
@@ -44,6 +46,7 @@ The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
 
+<img width="294" height="70" alt="Screenshot 2025-08-28 102912" src="https://github.com/user-attachments/assets/d21427c8-e353-4e68-bfb3-f276d7244c86" />
 
 ### 5)	cd Command
 
@@ -51,12 +54,14 @@ The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
 
+<img width="359" height="97" alt="Screenshot 2025-08-28 102931" src="https://github.com/user-attachments/assets/3cca5759-3fe0-4815-9510-a3e609797598" />
 
 ### 6)	cat Command
 
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+<img width="773" height="214" alt="Screenshot 2025-08-28 103044" src="https://github.com/user-attachments/assets/5b2e96b8-e4e7-4f6b-8008-6849a8c6c017" />
 
  
 ### 7)	cp Command
@@ -101,12 +106,14 @@ The head command is used to display the content of a file. It displays the first
 
 Syntax: head <file name>
 
+<img width="866" height="204" alt="Screenshot 2025-08-28 103307" src="https://github.com/user-attachments/assets/5ab2a246-ebc6-4a96-b0fd-56a76e3ac4c4" />
 
 ### 13)	tail Command
 
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+<img width="528" height="140" alt="Screenshot 2025-08-28 103202" src="https://github.com/user-attachments/assets/5ac07f94-1e1d-4c3b-a3bf-3741b8c7867c" />
 
  
 ### 14)	id Command

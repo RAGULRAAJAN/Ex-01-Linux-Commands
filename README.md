@@ -184,6 +184,7 @@ The host command is used to display the IP address for a given domain name and v
 
 Syntax: host <domain name> or <ip address>
 
+<img width="905" height="440" alt="image" src="https://github.com/user-attachments/assets/88b19a21-6f10-4e05-a2fb-e1953c2693b1" />
 
 ### 24)	gzip Command
 

@@ -100,6 +100,7 @@ The rename command is used to rename files. It is useful for renaming a large gr
 
 Syntax: rename 's/old-name/new-name/' files
 
+<img width="513" height="277" alt="image" src="https://github.com/user-attachments/assets/02b93b88-bf37-487e-9ea8-028741c7b0e3" />
 
 ### 12)	head Command
 

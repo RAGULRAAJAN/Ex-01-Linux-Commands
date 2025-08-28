@@ -31,7 +31,8 @@ The pwd command is used to display the location of the current working directory
 
 Syntax: pwd
 
- 
+ <img width="203" height="60" alt="Screenshot 2025-08-28 102842" src="https://github.com/user-attachments/assets/84e59a2c-1029-43d9-9047-6424ff820500" />
+
 ### 3)	mkdir Command
 
 The mkdir command is used to create a new directory under any directory.

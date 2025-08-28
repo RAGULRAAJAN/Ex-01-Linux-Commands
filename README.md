@@ -122,6 +122,7 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+<img width="615" height="97" alt="Screenshot 2025-08-28 103836" src="https://github.com/user-attachments/assets/a184bd03-72fa-47b1-9362-6f6c11e3d297" />
 
 
 ### 15)	grep Command
@@ -202,6 +203,7 @@ Syntax:sort <file name>
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
+<img width="362" height="162" alt="Screenshot 2025-08-28 103649" src="https://github.com/user-attachments/assets/e5161df3-9534-4c86-a01e-aee1c06d5c11" />
 
 
 ### 27)	clear Command
@@ -223,6 +225,8 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+<img width="743" height="199" alt="image" src="https://github.com/user-attachments/assets/86c5903c-df3a-4a30-98df-8fde35b5344d" />
+
 
 ### 30)	find Command
 
@@ -230,6 +234,7 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
+<img width="597" height="117" alt="image" src="https://github.com/user-attachments/assets/a62c60fd-5920-4ba0-a9f3-da86c76c8b06" />
 
 
 

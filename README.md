@@ -84,7 +84,7 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
-![alt text](8.png)
+
 
 
 ### 9)	su Command
@@ -255,7 +255,7 @@ The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
 
-![alt text](28.png)
+
  
 ### 29)	df Command
 
